@@ -28,4 +28,4 @@ A mini IMDB clone app in which we can search movies based on OMDB API, with sear
 ![page_2](Imdb_clone_ss2.png)
 ![page_3](Imdb_clone_ss3.png)
 
-### [Hosted Link](https://chowgonivamshi98.github.io/IMDb/)
+### [Hosted Link](https://chowgonivamshi98.github.io/IMDb-Clone/)

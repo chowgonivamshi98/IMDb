@@ -1,5 +1,5 @@
 # IMDb_Clone
-##Tools used
+## Tools used
 * HTML
 * CSS
 * Bootstrap
